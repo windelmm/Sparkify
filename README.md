@@ -1,4 +1,6 @@
-# Sparkify project
+# Sparkify
+
+This project focuses on analyzing user data from the music app Sparkify. 
 
 ### Table of Contents
 
@@ -11,15 +13,15 @@
 
 This project uses the following software and Python libraries:
 
-*Python
+* Python
 
-*Spark
+* Spark
 
-*Pyspark
+* Pyspark
 
-*pandas
+* pandas
 
-*Matplotlib
+* Matplotlib
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
