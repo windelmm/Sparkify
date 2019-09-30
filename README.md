@@ -43,3 +43,6 @@ Thanks to Udacity
 
 ## Blog link
 https://medium.com/@windelsmanu/sparkify-churn-predictions-5e86f05a611e
+
+# Author
+Windels Manu
